@@ -1,0 +1,42 @@
+html, body {
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+body {
+    background-color: blue;
+}
+#logo {
+    background-color: blue;
+    text-align: center;
+    padding-top: 20px;
+}
+#subtitulo {
+    color:white;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-style: italic;
+    text-shadow: 1px 1px black;
+}
+#obs {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color: white;
+}
+.link {
+    border: 2px white solid;
+    padding: 5px;
+    background-color: greenyellow;
+}
+.titulodocookie {
+    font-size: 20px;
+}
+#conteudo1 {
+    background-color: #0b0b3e
+}
+#conteudo1 {
+    margin-bottom: 40px;
+}
+#conteudo2 {
+    background-color: #0b0b3e;
+}
